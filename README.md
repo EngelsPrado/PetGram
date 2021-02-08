@@ -1,3 +1,8 @@
-# curso-platzi-react-avanzado ⚛️
+# Objetivo ⚛️
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Petgram es como un instagram pero de mascotas. De ahi su nombre. 
+
+# Tecnologias ⚛️
+
+React y GraphQl
+
